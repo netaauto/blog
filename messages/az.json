@@ -1,0 +1,19 @@
+{
+  "HEADER": {
+    "creditCalculator": "Kredit kalkulyatoru",
+    "selectLanguage": "Dil seçin",
+    "testDrive": "Test Drive - a yazıl"
+  },
+  "BLOG": {
+    "title": "Bloqlar"
+  },
+  "NOT_FOUND_PAGE":{
+    "title": "Səhifə tapılmadı",
+    "backToHome": "Əsas səhifəyə qayıt"
+  } ,
+  "LANGUAGE":{
+    "selectLanguage": "Dil seçin",
+    "english": "İngilis",
+    "azerbaijani": "Azərbaycan"
+  }
+}
